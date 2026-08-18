@@ -7,6 +7,7 @@ I'm **Chi Trung**, a Full-stack Developer from Vietnam 🇻🇳
 * 💻 I’m currently working with Node.js, TypeScript and Next.js
 * 🌱 I’m currently learning Go
 * 💬 Ask me about JavaScript, Node.js or web development
+* 💡 I’m interested in Data Structures and Algorithms and System Design
 
 
 ### Languages and Tools

@@ -8,6 +8,7 @@ I'm **Chi Trung**, a Full-stack Developer from Vietnam 🇻🇳
 * 🌱 I’m currently learning Go
 * 💬 Ask me about JavaScript, Node.js or web development
 * 💡 I’m interested in Data Structures and Algorithms and System Design
+* 📫 Contact: [LinkedIn - Trung Nguyễn](www.linkedin.com/in/trung-nguyen-28548a152) · trung.ktpm@gmail.com
 
 
 ### Languages and Tools

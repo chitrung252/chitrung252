@@ -20,7 +20,7 @@ These days, I’m exploring **Go** and learning more about distributed systems.
 
 <p>
   <img
-    src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,nextjs,react,vue,go,postgres,mysql,mongodb,redis,rabbitmq,docker,git,linux"
+    src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,nextjs,react,vue,go,postgres,mysql,mongodb,redis,rabbitmq,docker,git"
     alt="Languages and tools"
   />
 </p>

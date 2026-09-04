@@ -1,14 +1,14 @@
 # Behind the APIs ⚙️
 
-Hi there! I’m Chi Trung, a Full-stack Engineer based in Ho Chi Minh City, Vietnam, with a strong focus on backend development.
+Hi there! I’m Chi Trung, a Full-stack Engineer based in Ho Chi Minh City, Vietnam
 
-For more than five years, I’ve been building enterprise applications across fintech, retail. I enjoy turning complex business requirements into reliable, maintainable systems—and making things run a little faster along the way. 🚀
+I’ve been building enterprise applications across fintech, retail. I enjoy turning complex business requirements into reliable, maintainable systems—and making things run a little faster along the way. 🚀
 
 ## What I do
 
 My work covers both frontend and backend development, but most of my time is spent behind the APIs: designing services, modelling business logic, integrating systems, and improving performance.
 
-I’ve worked with microservices and event-driven systems, including payment, wallet, inventory, accounting, and order-processing workflows.
+I’ve worked with microservices and event-driven systems
 
 ## My tech stack
 

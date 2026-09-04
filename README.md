@@ -1,20 +1,12 @@
 # Full Stack, Half the Sleep ☕
 
-Hi there! I’m **Chi Trung**, a Full-stack Engineer based in Ho Chi Minh City, Vietnam. I’ve been building enterprise applications across fintech and retail, turning complex business requirements into reliable, maintainable software—and occasionally trading sleep for one more deployment. 🚀
+Hi there! I’m Chi Trung, a **Full-stack Engineer** from Ho Chi Minh City. I enjoy building useful products, solving real-world problems, contributing to open-source projects, and learning new things along the way.
 
 ## What I do
 
-My work spans both ends of the stack: from building responsive user interfaces with React, Next.js, and Vue.js to designing APIs, modeling business domains, integrating systems, and improving backend performance.
-
-Most of my time is spent behind the APIs, but I’m equally comfortable moving between frontend and backend when the job calls for it. I’ve also worked with microservices and event-driven systems, with a focus on keeping things scalable, reliable, and maintainable.
+I’ve worked on fintech, ERP, and F&B systems. As a Full-stack Engineer, I build both user interfaces and backend services. My backend work includes designing APIs, handling business logic, working with databases, integrating systems, and improving performance. Most of my time is spent on the backend, but I’m also comfortable moving between frontend and backend when needed. I’ve worked with microservices and event-driven systems, and I also enjoy exploring and contributing to open-source projects.
 
 ## My tech stack
-
-I mainly use **TypeScript**, **Node.js**, **NestJS**, and **PostgreSQL** to build backend services. On the frontend, I work with **Next.js**, **React**, and **Vue.js**.
-
-Depending on what the system needs, I also use **Redis**, **RabbitMQ**, **MySQL**, **MongoDB**, **Docker**, and CI/CD pipelines to build, connect, and deliver applications without too many “works on my machine” moments.
-
-These days, I’m exploring **Go** and learning more about distributed systems—because apparently, one stack wasn’t enough.
 
 <p>
   <img
@@ -25,9 +17,13 @@ These days, I’m exploring **Go** and learning more about distributed systems�
 
 ## What interests me
 
-I enjoy learning and working with distributed systems, microservices, Clean Architecture, Domain-Driven Design, and event-driven architecture.
+I’m particularly interested in:
 
-More than any particular technology, I’m interested in solving real-world business problems and building software that remains understandable after the “quick temporary fix” becomes permanent.
+- Distributed systems and microservices
+- Clean Architecture and Domain-Driven Design
+- Event-driven architecture
+- System performance and reliability
+- Solving real-world business problems
 
 ## Let’s connect
 

@@ -1,6 +1,6 @@
 # Full Stack, Half the Sleep ☕
 
-Hi there! I’m Chi Trung, a **Full-stack Engineer** from Ho Chi Minh City. I enjoy building useful products, solving real-world problems, contributing to open-source projects, and learning new things along the way.
+Hi there! I’m Chi Trung, a **Full-stack Engineer** from Ho Chi Minh City, Viet Nam. I enjoy building useful products, solving real-world problems, contributing to open-source projects, and learning new things along the way.
 
 ## What I do
 
